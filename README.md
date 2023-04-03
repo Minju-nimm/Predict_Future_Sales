@@ -15,7 +15,7 @@
 |:-----:	|:-----:|:-------------------------------------------------------:	|
 |     <img src="https://user-images.githubusercontent.com/119478998/228486556-2aa892ef-467a-45e7-9d8d-8c1608061d08.png" width = 130> |  김민주 <br> [@Minju-nimm](https://github.com/Minju-nimm) 	|      데이터 전처리 및 시각화 <br> Github, Notion 관리 <br> 모델링	|
 |   <img src="https://user-images.githubusercontent.com/119478998/228737598-796b1bd7-cb2e-4cb6-8836-ca89c32b8851.png" width = 100> 	|   김기준 <br> [@AppleKimkijun](https://github.com/AppleKimkijun) 	|  데이터 전처리 및 시각화 <br> 피쳐 엔지니어링 |
-|     <img src="https://user-images.githubusercontent.com/119478998/228486556-2aa892ef-467a-45e7-9d8d-8c1608061d08.png" width = 130> |  고준성 <br> [@Minju-nimm](https://github.com/Minju-nimm) 	|      모델링 <br> Github, Notion 관리 <br> 피쳐 엔지니어링	|
+|      <img src="https://user-images.githubusercontent.com/119478998/228737598-796b1bd7-cb2e-4cb6-8836-ca89c32b8851.png" width = 100>  |  고준성 <br> [@Minju-nimm](https://github.com/Minju-nimm) 	|      모델링 <br> Github, Notion 관리 <br> 피쳐 엔지니어링	|
 |   <img src="https://user-images.githubusercontent.com/119478998/228737598-796b1bd7-cb2e-4cb6-8836-ca89c32b8851.png" width = 100> 	|   이한재 <br> [@AppleKimkijun](https://github.com/AppleKimkijun) 	|  하이퍼 파라미터 튜닝 <br> 모델링	|
 
 <br>
