@@ -23,7 +23,6 @@
 
 
 ## :computer: Installation
-각 프로세스마다 요구하는 사항이 다르니, 프로세스별 README.md 파일을 참고해주세요!
 
 ```bash
 pip install -r requirements.txt
@@ -47,11 +46,6 @@ pip install -r requirements.txt
 <br>
 </br>
 
-
-## 🖱️ Usage
-
-<br>
-</br>
 
 
 ## 📚 Reference
