@@ -48,7 +48,7 @@ pip install -r requirements.txt
 
 ## 🔎 프로젝트에서 주목한 내용
 ### Log transformation
-<img src = "https://user-images.githubusercontent.com/119478998/229987632-153e4bf9-4f1f-4c49-b0a2-ce4804fffd47.png" width="900" height="400" />
+<img src = "https://user-images.githubusercontent.com/119478998/229987632-153e4bf9-4f1f-4c49-b0a2-ce4804fffd47.png" width="900" height="500" />
 
 <br>
 </br>
