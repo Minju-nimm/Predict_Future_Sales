@@ -1,4 +1,4 @@
-# 🛒 Predict_Future_Sales
+# 🛒 Predict Future Sales
 다년간의 시계열 데이터를 분석하여, 특정 월의 상품 판매량을 예측하는 강건한 모델을 만드는 프로젝트입니다. 기존 수상작들의 코드를 참조하여 데이터 분석의 수준을 높여 생략되거나 미비했던 EDA 과정과 스케일링, 이상치 제거 등의 부수적인 전처리 과정을 추가하고 앙상블 모델을 사용함으로써 분석의 품질을 높이고자 했습니다. 
 
 👉🏻 Kaggle Predict Future Sales 경진 대회 링크는 [이 곳](https://www.kaggle.com/c/competitive-data-science-predict-future-sales)을 눌러주세요.
