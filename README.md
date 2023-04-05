@@ -72,17 +72,20 @@ pip install -r requirements.txt
 </br>
 
 ### Conclusion
-<img src = "https://user-images.githubusercontent.com/119478998/229986143-0d5521c8-d033-4b9f-af28-46e68a65e4ae.png" width="900" height="400" />
+<img src = "https://user-images.githubusercontent.com/119478998/229986143-0d5521c8-d033-4b9f-af28-46e68a65e4ae.png" width="900" height="350" />
 
 <br>
 </br>
 
 ## 📚 Reference
 - https://www.kaggle.com/code/deinforcement/top-1-predict-future-sales-features-lightgbm
+- https://www.kaggle.com/code/abubakar624/first-place-solution-kaggle-predict-future-sales/notebook
 - https://www.kaggle.com/code/gordotron85/future-sales-xgboost-top-3/notebook
+- https://medium.com/data-science-at-microsoft/introduction-to-feature-engineering-for-time-series-forecasting-620aa55fcab0
+- https://www.kaggle.com/code/plarmuseau/forecast-log
 
 <br>
 </br>
 
 ---
-해당 프로젝트는 멀티캠퍼스 데이터 분석 및 웹 개발자 13회차의 실전 분석 프로젝트 4조 '고민기재'가 함께 기획하였습니다.
+해당 프로젝트는 멀티캠퍼스 데이터 분석 및 웹 개발자 13회차의 실전 분석 프로젝트 4조 '고민기재'가 기획하였습니다.
