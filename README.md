@@ -4,7 +4,7 @@
 👉🏻 Kaggle Predict Future Sales 경진 대회 링크는 [이 곳](https://www.kaggle.com/c/competitive-data-science-predict-future-sales)을 눌러주세요.
 
 
-🔎 프로젝트의 자세한 내용을 알고싶다면? [포트폴리오](링크)를 참고하세요!
+🔎 프로젝트의 자세한 내용을 알고싶다면? [포트폴리오](https://github.com/Minju-nimm/Predict_Future_Sales/blob/main/src/%EC%BA%90%EA%B8%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EC%B5%9C%EC%A2%85_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)를 참고하세요!
 
 <br>
 </br>
