@@ -84,7 +84,8 @@ pip install -r requirements.txt
 
 ### Conclusion
 <img src = "https://user-images.githubusercontent.com/119478998/229986143-0d5521c8-d033-4b9f-af28-46e68a65e4ae.png" width="900" height="350" />
-- 4번: quarter 변수를 추가하고, log 변환한 변수들을 추가한 경우. (1.24887로 좋지 못한 점수를 받음)
+
+- 4번: quarter 변수를 추가하고, log 변환한 변수들을 추가한 경우 (1.24887로 좋지 못한 점수를 받음)
 - Log 변환을 진행하면서 Feature를 많이 늘린 탓에 과적합 문제가 우려
 - train data의 성능은 훌륭했으나 test data 예측 점수가 많이 낮아지는 문제 발생
 
