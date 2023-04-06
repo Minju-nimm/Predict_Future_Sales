@@ -48,7 +48,16 @@ pip install -r requirements.txt
 
 ## 🔎 프로젝트에서 주목한 내용
 ### Log transformation
+- 연속형 변수들에 대해서 분포를 확인, 정규성을 따르지 않는 변수들을 변환
+- 예측모델을 적용할 때 통계적 이론을 바탕으로 구성, 예측모델은 데이터 분포가 정규분포를 따른다고 가정
+- 데이터 분포를 안정화 시키기 위해서 보통 로그화나 정규화 방법을 이용
+
 <img src = "https://user-images.githubusercontent.com/119478998/229987632-153e4bf9-4f1f-4c49-b0a2-ce4804fffd47.png" width="900" height="500" />
+
+- item_price의 원래 분포형태는 정적 편포 형태
+- 로그 변환을 시도한 결과 정규분포의 형태를 띄게 되었고, 왜도 절댓값도 크게 줄어 정규분포에 가깝다고 볼 수 있음
+ 
+- item_cnt_day의 경우 로그 변환 전, 후로 그래프 형상에서는 큰 차이가 없어보였으나 왜도의 절댓값이 100에서 5로 크게 감소함
 
 <br>
 </br>
@@ -60,12 +69,15 @@ pip install -r requirements.txt
 </br>
 
 - 스태킹/블렌딩 모델은 예측 변수 그룹의 예측을 집계해서, 최상의 개별 예측보다 더 나은 예측을 얻을 수 있는 원리로 작동
+- 모델들의 장단점 및 예측 점수를 고려하여 스태킹을 최종 모델로 지정
 <img src = "https://user-images.githubusercontent.com/119478998/229987466-582a203b-d9ff-4066-9ac0-71634ab6e499.png" width="900" height="400" />
 
 <br>
 </br>
 
 ### Hyper parameters tuning : Optuna Library
+- 모델의 하이퍼 파라미터 튜닝으로 옵튜나 라이브러리를 사용
+- 옵튜나 라이브러리는 하이퍼파라미터 튜닝에 쓰이는 최신 AutoML기법 중 하나
 <img src = "https://user-images.githubusercontent.com/119478998/229986581-84dee780-0fa8-4a4c-b1d5-576252cbb684.png" width="900" height="350" />
 
 <br>
@@ -73,6 +85,9 @@ pip install -r requirements.txt
 
 ### Conclusion
 <img src = "https://user-images.githubusercontent.com/119478998/229986143-0d5521c8-d033-4b9f-af28-46e68a65e4ae.png" width="900" height="350" />
+- 4번: quarter 변수를 추가하고, log 변환한 변수들을 추가한 경우. (1.24887로 좋지 못한 점수를 받음)
+- Log 변환을 진행하면서 Feature를 많이 늘린 탓에 과적합 문제가 우려
+- train data의 성능은 훌륭했으나 test data 예측 점수가 많이 낮아지는 문제 발생
 
 <br>
 </br>
