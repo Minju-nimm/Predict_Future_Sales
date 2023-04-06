@@ -22,30 +22,6 @@
 </br>
 
 
-## :computer: Installation
-
-```bash
-pip install -r requirements.txt
-```
-<br>
-</br>
-
-<div align="center">
-
-![Pytorch](https://img.shields.io/badge/Pytorch-v1.13.1-orange?logo=Pytorch&style=plastic)
-![NodeJS](https://img.shields.io/badge/Node.js-v18.14.2-339933?logo=node.js&style=plastic)
-![react](https://img.shields.io/badge/react-v18.2.0-61dafb?logo=React&style=plastic)
-![javascript](https://img.shields.io/badge/javascript-ES6-yellow?logo=javascript&style=plastic)
-
-![Deepspeed](https://img.shields.io/badge/Deepspeed-v0.8.2+4ae3a3da-blue?logo=Deepspeed&style=plastic)
-![Transformer](https://img.shields.io/badge/Transformer-v4.27.2-green?logo=Transformer&style=plastic)
-![fastai](https://img.shields.io/badge/fastai-v2.7.11-orange?logo=fastai&style=plastic)
-
-</div>
-
-<br>
-</br>
-
 ## 🔎 프로젝트에서 주목한 내용
 ### Log transformation
 - 연속형 변수들에 대해서 분포를 확인, 정규성을 따르지 않는 변수들을 변환
