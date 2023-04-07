@@ -4,7 +4,7 @@
 👉🏻 Kaggle Predict Future Sales 경진 대회 링크는 [이 곳](https://www.kaggle.com/c/competitive-data-science-predict-future-sales)을 눌러주세요.
 
 
-🔎 프로젝트의 자세한 내용을 알고싶다면? [포트폴리오](https://github.com/Minju-nimm/Predict_Future_Sales/blob/main/src/%EC%BA%90%EA%B8%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EC%B5%9C%EC%A2%85_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)를 참고하세요!
+🔎 프로젝트의 자세한 내용을 알고싶다면? [포트폴리오](https://github.com/Minju-nimm/Predict_Future_Sales/blob/main/docs/%EC%BA%90%EA%B8%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EC%B5%9C%EC%A2%85_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)를 참고하세요!
 
 <br>
 </br>
@@ -16,7 +16,7 @@
 |     <img src="https://user-images.githubusercontent.com/119478998/228486556-2aa892ef-467a-45e7-9d8d-8c1608061d08.png" width = 130> |  김민주 <br> [@Minju-nimm](https://github.com/Minju-nimm) 	|      데이터 전처리 및 시각화 <br> Github, Notion 관리 <br> 모델링	|
 |   <img src="https://user-images.githubusercontent.com/119478998/228737598-796b1bd7-cb2e-4cb6-8836-ca89c32b8851.png" width = 100> 	|   김기준 <br> [@AppleKimkijun](https://github.com/AppleKimkijun) 	|  데이터 전처리 및 시각화 <br> 피쳐 엔지니어링 |
 |      <img src="https://user-images.githubusercontent.com/119478998/230357145-bf7b0710-94b8-407b-b717-d0abcdc87b82.png" width = 150>  |  고준성 <br> [@KO-JUNSUNG](https://github.com/KO-JUNSUNG) 	|      모델링 <br> Github, Notion 관리 <br> 피쳐 엔지니어링	|
-|   <img src="https://user-images.githubusercontent.com/119478998/230357125-816120d4-fa67-4c15-9194-4d0d2e0b0c2e.png" width = 140> 	|   이한재 <br> [@]() 	|  하이퍼 파라미터 튜닝 <br> 모델링	|
+|   <img src="https://user-images.githubusercontent.com/119478998/230357125-816120d4-fa67-4c15-9194-4d0d2e0b0c2e.png" width = 140> 	|   이한재 <br> [@feedhj123](https://github.com/feedhj123) 	|  하이퍼 파라미터 튜닝 <br> 모델링	|
 
 <br>
 </br>
